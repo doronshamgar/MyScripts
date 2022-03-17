@@ -1,4 +1,4 @@
 # Scripts
 
 scripts in this repository:
-  1. waveify - a visualization tool for log data
+  1. waveify.py - a visualization tool for log data
